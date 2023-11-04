@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(22, 22, 115);
+}
+h2 {
+    color: brown;
+}
+b {
+    color: rgb(89, 112, 30);
+}
+a {
+color: rgb(136, 92, 27);
+
+}
+
+ .block 
+ {
+    background-color: rgb(0, 0, 0);
+ }
+.inline{
+ background-color: blue;
+}
+.inline-block {
+    background-color: brown;
+}
